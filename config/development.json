@@ -1,0 +1,15 @@
+{
+  "env": "development",
+
+  "server": {
+    "ports": {
+      "http": 3000
+    }
+  },
+
+  "arcServer": {
+    "baseUrl": "https://api.sandbox.pmn.arcpublishing.com/",
+    "userName": "2018-02",
+    "password": "1e9e98b7eecf06bc51f27c1c590b412257793434f293c0dcd1f8ad3b8030a8a64ff47a5c462b810f9250e45c54d95e86c3bafb8c1265c43654b384216fcfeb348bede5ff4379a8da75071612b17ab04286d15543e68ea31475d1c2b478d83148b1bceff9"
+  }
+}

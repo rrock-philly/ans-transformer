@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "stage-2",
+    [
+      "env", {
+      "targets": {
+        "node": "current", "useBuiltIns": true
+      }
+    }
+    ],
+    ["minify", { "mangle": false }]
+  ],
+  "plugins": [ "transform-runtime" ]
+}
